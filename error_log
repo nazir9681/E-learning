@@ -1,0 +1,18 @@
+[21-May-2020 06:08:00 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /home/rudhh1bdqjig/public_html/online_teacher/application/config/config.php on line 33
+[21-May-2020 06:08:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Jun-2020 09:41:01 UTC] PHP Fatal error:  Cannot redeclare AdminModel::offer_status_update() in /home/rudhh1bdqjig/public_html/online_teacher/application/models/AdminModel.php on line 135
+[20-Jun-2020 04:41:50 UTC] PHP Fatal error:  Cannot redeclare LearningApi::sendOtp() in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 128
+[22-Jun-2020 09:52:09 UTC] PHP Fatal error:  Cannot redeclare LearningApiModel::courses() in /home/rudhh1bdqjig/public_html/online_teacher/application/models/LearningApiModel.php on line 145
+[25-Jun-2020 12:13:34 UTC] PHP Fatal error:  Cannot redeclare Admin::liveClasses() in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/Admin.php on line 574
+[26-Jun-2020 07:14:26 UTC] PHP Fatal error:  Cannot redeclare AdminModel::subjectData() in /home/rudhh1bdqjig/public_html/online_teacher/application/models/AdminModel.php on line 200
+[30-Jun-2020 06:13:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 245
+[30-Jun-2020 06:13:32 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 245
+[30-Jun-2020 06:13:32 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 245
+[10-Jul-2020 10:22:44 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rudhh1bdqjig/public_html/online_teacher/application/models/LearningApiModel.php on line 644
+[13-Jul-2020 05:11:06 UTC] PHP Fatal error:  Cannot redeclare LearningApi::mockTest() in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 408
+[14-Jul-2020 05:15:58 UTC] PHP Fatal error:  Cannot redeclare AdminModel::mockQuestionData() in /home/rudhh1bdqjig/public_html/online_teacher/application/models/AdminModel.php on line 246
+[14-Jul-2020 08:24:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 420
+[14-Jul-2020 08:25:09 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/LearningApi.php on line 420
+[14-Jul-2020 11:01:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rudhh1bdqjig/public_html/online_teacher/application/models/LearningApiModel.php on line 701
+[28-Jul-2020 07:01:34 UTC] PHP Fatal error:  require_once(): Failed opening required './lib/config_paytm.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rudhh1bdqjig/public_html/online_teacher/application/controllers/Admin.php on line 1025
+[05-Aug-2020 07:02:49 UTC] PHP Fatal error:  Cannot redeclare AdminModel::studentCount() in /home/rudhh1bdqjig/public_html/online_teacher/application/models/AdminModel.php on line 351
